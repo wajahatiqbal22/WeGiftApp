@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124179812509",
+    "project_id": "wegiftapp-2ec9b",
+    "storage_bucket": "wegiftapp-2ec9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124179812509:android:cbd4ebfcb8f4dbc1a00474",
+        "android_client_info": {
+          "package_name": "com.wegift.wegiftapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124179812509-3c9anru21oc783ukanahgkrmghkfq85l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wegift.wegiftapp",
+            "certificate_hash": "9c3d1eaebcfcdbdc6de6eb26e259539bec3102d7"
+          }
+        },
+        {
+          "client_id": "124179812509-sttmius1omer75o0alis3t7iebf0j7bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYQrY_zituQ3HL47a7MOo5KqKMRRjuqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124179812509-sttmius1omer75o0alis3t7iebf0j7bb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124179812509-ltbousiv9hjgca8dtrh7t14qln1hdha3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wegift.wegiftapp",
+                "app_store_id": "6444347971"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
